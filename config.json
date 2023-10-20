@@ -1,0 +1,19 @@
+{
+    "devices": [
+        {
+            "device_id": "device1",
+            "topic": "temperature/device1",
+            "temperature": 27.4
+        },
+        {
+            "device_id": "device2",
+            "topic": "temperature/device2",
+            "temperature": 20.47
+        },
+        {
+            "device_id": "device2",
+            "topic": "temperature/device2",
+            "temperature": 29.79
+        }
+    ]
+}
